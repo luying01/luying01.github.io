@@ -13,6 +13,5 @@ categories: assignment2 website
        width="1100"
        height="600"
        >
-</embed>
 
 ### Hopefully text here removes the /embed> thing at the end hehe
