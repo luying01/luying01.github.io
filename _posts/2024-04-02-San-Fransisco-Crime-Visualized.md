@@ -8,7 +8,7 @@ categories: assignment2 website
 # INTRODUCTION – CRIME IN SAN FRNACISCO 
 
 Welcome to our in-depth analysis of San Francisco property crimes.
-Within our dataset spanning from 2010 to 2017 (right?), we narrow our scope to investigate the dynamics of property crimes and their impact on community safet.
+Within our dataset spanning from 2010 to 2017, we narrow our scope to investigate the dynamics of property crimes and their impact on community safet.
 Our analysis aims to disentangle the complex patterns and trends surrounding property-related criminal activities in the city, with a particular focus on understanding thefts, burglaries, vandalism, and related offenses.
 We can provide a more focused analysis of variables like location, time of occurrence, and seasonal variations by focusing only on property crimes, which can provide important insights into the underlying causes of these offenses.
 Our analysis aims to provide actionable intelligence to support law enforcement, policymakers, and community stakeholders in addressing and mitigating property-related crime in San Francisco.
@@ -24,7 +24,12 @@ It is noteworthy that, in the examined period, the years 2012 and 2017 are the m
 This research emphasises how changing socioeconomic and environmental factors can cause crime trends to fluctuate over time.
 
 ## Heat map showing crime concentration for different areas of SF
-
+<embed 
+       type="text/html" 
+       src="/graphs/map.html"
+       width="1100"
+       height="600"
+       >
 In examining crime patterns in San Francisco, we observe that areas closer to the coast often exhibit higher rates of criminal activity, even because the proximity to major ports provide an easy access for exporting stolen vehicles.
 
 However, it's crucial to approach this observation with nuance. While proximity to the coast may be a contributing factor, it's just one piece of the puzzle in understanding community safety.
@@ -49,11 +54,3 @@ Specifically, crimes such as vehicle theft and larceny/theft show peaks during t
 Conversely, areas where crimes such as burglary and robbery are widespread may indeed be considered more dangerous. These types of crimes involve a higher level of intent and threat to individuals or property, suggesting a heightened level of risk in those areas.
 
 By recognizing these distinctions in crime types and their implications, stakeholders can better understand the safety dynamics of different neighborhoods and implement targeted interventions to address specific challenges effectively.
-## test1
-### test2
-#### test 3
-##### test 4
-
-dfkdhfdkhdkfhdkfhdkhfd\\
-fdjfkdhfkdhfkdh\\
-dfhdifhkdkhfhkdhfd
