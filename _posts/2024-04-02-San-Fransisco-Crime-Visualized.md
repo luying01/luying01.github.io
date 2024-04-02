@@ -30,6 +30,7 @@ This research emphasises how changing socioeconomic and environmental factors ca
        width="1100"
        height="600"
        >
+
 In examining crime patterns in San Francisco, we observe that areas closer to the coast often exhibit higher rates of criminal activity, even because the proximity to major ports provide an easy access for exporting stolen vehicles.
 
 However, it's crucial to approach this observation with nuance. While proximity to the coast may be a contributing factor, it's just one piece of the puzzle in understanding community safety.
@@ -47,10 +48,26 @@ Furthermore, persistent initiatives to combat crime and enhance safety by local 
        height="600"
        >
 
-we present an interactive plot illustrating the occurrences of various crime types throughout the day. Notably, a consistent trend emerges across different crime categories: an uptick in incidents typically occurs from 5 pm until 4 am.
+We present an interactive plot illustrating the occurrences of various crime types throughout the day. Notably, a consistent trend emerges across different crime categories: an uptick in incidents typically occurs from 5 pm until 4 am.
 
 Specifically, crimes such as vehicle theft and larceny/theft show peaks during these hours. However, it's essential to note that the prevalence of these crimes doesn't necessarily indicate a dangerous area, as they can often be opportunistic in nature.
 
 Conversely, areas where crimes such as burglary and robbery are widespread may indeed be considered more dangerous. These types of crimes involve a higher level of intent and threat to individuals or property, suggesting a heightened level of risk in those areas.
 
 By recognizing these distinctions in crime types and their implications, stakeholders can better understand the safety dynamics of different neighborhoods and implement targeted interventions to address specific challenges effectively.
+
+<div style="display: flex; align-items: flex-start;">
+    <embed type="text/html" src="/graphs/map.html" width="1100" height="600">
+    <div>
+        {% include map.html %}
+        <!-- In examining crime patterns in San Francisco, we observe that areas closer to the coast often exhibit higher rates of criminal activity, even because the proximity to major ports provide an easy access for exporting stolen vehicles.
+
+However, it's crucial to approach this observation with nuance. While proximity to the coast may be a contributing factor, it's just one piece of the puzzle in understanding community safety.
+
+In San Francisco, areas such as the Tenderloin, the Mission District, and parts of the Bayview-Hunters Point neighborhood have historically been associated with higher crime rates. These areas often face challenges related to poverty, homelessness, drug activity, and other socio-economic factors that can contribute to crime.
+
+On the other hand, areas with lower crime rates might gain from elements like greater incomes, more active local communities, and more funding for public (and possibly even private) safety measures.
+
+Furthermore, persistent initiatives to combat crime and enhance safety by local government, law enforcement, and community organizations may eventually cause changes in crime trends. -->
+    </div>
+</div>
