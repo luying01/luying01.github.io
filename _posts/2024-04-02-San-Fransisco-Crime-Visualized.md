@@ -27,7 +27,7 @@ This research emphasises how changing socioeconomic and environmental factors ca
 <embed 
        type="text/html" 
        src="/graphs/map.html"
-       width="600"
+       width="800"
        height="600"
        >
 
